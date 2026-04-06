@@ -2,7 +2,7 @@
 
 A beautifully crafted, fully playable Sudoku game built with vanilla HTML5, CSS, and JavaScript. No dependencies, no backend — just pure logic and clean design.
 
-![Sudoku Game Preview](https://via.placeholder.com/800x450?text=Sudoku+Game+Preview)
+![Screenshot_6-4-2026_22657_127 0 0 1](https://github.com/user-attachments/assets/603ff059-19f6-4eff-b156-95e70e80c574)
 
 ##  Features
 
